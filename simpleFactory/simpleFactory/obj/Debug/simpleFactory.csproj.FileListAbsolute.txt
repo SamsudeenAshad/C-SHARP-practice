@@ -1,0 +1,2 @@
+E:\GIt Folder\C-practice\simpleFactory\simpleFactory\obj\Debug\simpleFactory.csproj.AssemblyReference.cache
+E:\GIt Folder\C-practice\simpleFactory\simpleFactory\obj\Debug\simpleFactory.csproj.CoreCompileInputs.cache
