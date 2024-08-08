@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIt Folder\\C-practice\\FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\beefresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\beefresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\vegiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\vegiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\chickenresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\chickenresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\vegiresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\vegiresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|e:\\git folder\\c-practice\\factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C4EC94-E6E1-4E9F-8A7B-6740A38AE180}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeefBurger.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\BeefBurger.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\BeefBurger.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\BeefBurger.cs",
+              "RelativeToolTip": "FactoryMethod\\BeefBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:32:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\Burger.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Burger.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\Burger.cs",
+              "RelativeToolTip": "FactoryMethod\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:25:31.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChickenResturant.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\ChickenResturant.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ChickenResturant.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\ChickenResturant.cs",
+              "RelativeToolTip": "FactoryMethod\\ChickenResturant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:20:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChickenBurger.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\ChickenBurger.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ChickenBurger.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\ChickenBurger.cs",
+              "RelativeToolTip": "FactoryMethod\\ChickenBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:18:37.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeefResturant.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\BeefResturant.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\BeefResturant.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\BeefResturant.cs",
+              "RelativeToolTip": "FactoryMethod\\BeefResturant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:06:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vegiResturant.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\vegiResturant.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\vegiResturant.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\vegiResturant.cs",
+              "RelativeToolTip": "FactoryMethod\\vegiResturant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:03:56.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VegiBurger.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\VegiBurger.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\VegiBurger.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\VegiBurger.cs",
+              "RelativeToolTip": "FactoryMethod\\VegiBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:01:26.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resturant.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\Resturant.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Resturant.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\Resturant.cs",
+              "RelativeToolTip": "FactoryMethod\\Resturant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:58:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:53:08.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,27 +7,27 @@
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|e:\\git folder\\c-practice\\simplefactory\\simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|E:\\GIt Folder\\C-practice\\simpleFactory\\simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|e:\\git folder\\c-practice\\simplefactory\\simplefactory\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|E:\\GIt Folder\\C-practice\\simpleFactory\\simplefactory\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|e:\\git folder\\c-practice\\simplefactory\\simplefactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|E:\\GIt Folder\\C-practice\\simpleFactory\\simplefactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|e:\\git folder\\c-practice\\simplefactory\\simplefactory\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|E:\\GIt Folder\\C-practice\\simpleFactory\\simplefactory\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|e:\\git folder\\c-practice\\simplefactory\\simplefactory\\simpleburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|E:\\GIt Folder\\C-practice\\simpleFactory\\simplefactory\\simpleburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\simpleburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|e:\\git folder\\c-practice\\simplefactory\\simplefactory\\vegiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|E:\\GIt Folder\\C-practice\\simpleFactory\\simplefactory\\vegiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F28C8A-FC3A-4777-8897-332C42E57F0B}|simpleFactory\\simpleFactory.csproj|solutionrelative:simplefactory\\vegiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "simpleFactory\\Burger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T06:18:26.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:18:26.421Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "simpleFactory\\chickenBurger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T06:13:33.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:13:33.422Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "simpleFactory\\BeefBurger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T06:12:49.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:12:49.623Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "simpleFactory\\VegiBurger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T06:09:32.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:09:32.921Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "simpleFactory\\simpleBurgerFactory.cs",
               "ViewState": "AQIAAAcAAADAZmZmZmYkwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T05:56:32.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T05:56:32.38Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "simpleFactory\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T05:54:43.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T05:54:43.916Z"
             }
           ]
         }
