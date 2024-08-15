@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\asuzmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:asuzmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\msimanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:msimanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\asuzmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:asuzmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\msigpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\msigpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:msigpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\assugpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:assugpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|e:\\git folder\\c-practice\\gpusimplefactory\\assugpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:assugpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B4C233-F1E4-4C09-B12B-61AB1C28B8B0}|GpuSimpleFactory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,34 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AsuzManufacture.cs",
-              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\AsuzManufacture.cs",
-              "RelativeDocumentMoniker": "AsuzManufacture.cs",
-              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\AsuzManufacture.cs*",
-              "RelativeToolTip": "AsuzManufacture.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:50:01.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MSIManufacture.cs",
-              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MSIManufacture.cs",
-              "RelativeDocumentMoniker": "MSIManufacture.cs",
-              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MSIManufacture.cs",
-              "RelativeToolTip": "MSIManufacture.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:47:35.318Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -74,14 +48,14 @@
               "RelativeDocumentMoniker": "Company.cs",
               "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\Company.cs",
               "RelativeToolTip": "Company.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T10:44:30.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AssuGpu.cs",
               "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\AssuGpu.cs",
               "RelativeDocumentMoniker": "AssuGpu.cs",
@@ -94,25 +68,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MsiGpu.cs",
-              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MsiGpu.cs",
-              "RelativeDocumentMoniker": "MsiGpu.cs",
-              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MsiGpu.cs",
-              "RelativeToolTip": "MsiGpu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:37:42.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Gpu.cs",
               "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\Gpu.cs",
               "RelativeDocumentMoniker": "Gpu.cs",
-              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\Gpu.cs*",
-              "RelativeToolTip": "Gpu.cs*",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\Gpu.cs",
+              "RelativeToolTip": "Gpu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T10:36:32.231Z",
@@ -120,7 +81,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "MsiGpu.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MsiGpu.cs",
+              "RelativeDocumentMoniker": "MsiGpu.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MsiGpu.cs",
+              "RelativeToolTip": "MsiGpu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:37:42.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSIManufacture.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MSIManufacture.cs",
+              "RelativeDocumentMoniker": "MSIManufacture.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\MSIManufacture.cs",
+              "RelativeToolTip": "MSIManufacture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:47:35.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsuzManufacture.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\AsuzManufacture.cs",
+              "RelativeDocumentMoniker": "AsuzManufacture.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\AsuzManufacture.cs",
+              "RelativeToolTip": "AsuzManufacture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:50:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GIt Folder\\C-practice\\GpuSimpleFactory\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -128,8 +128,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:36:09.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:36:09.95Z"
             }
           ]
         }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace GpuSimpleFactory
 {
-    public class AsuzMAnufacture : Company
+    public class AsuzManufacture : Company
     {
-        public override Gpu CrateGpu()
+        public override Gpu CreateGpu()
         {
             return new AssuGpu();
         }

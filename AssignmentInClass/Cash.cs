@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GpuSimpleFactory
+namespace AssignmentInClass
 {
-    public interface Gpu
+    public class Cash : Payment
     {
-        public void Assemble();
+        public float CashTendered { get; set; }
+
     }
 }

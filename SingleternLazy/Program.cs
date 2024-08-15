@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GpuSimpleFactory
+namespace SingleternLazy
 {
-    public interface Gpu
+    internal class Program
     {
-        public void Assemble();
+        static void Main(string[] args)
+        {
+        }
     }
 }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIt Folder\\C-practice\\SingleternPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C64AEB-621D-493D-AEE5-F9221F5E4ADD}|SingleternPattern.csproj|e:\\git folder\\c-practice\\singleternpattern\\singletern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C64AEB-621D-493D-AEE5-F9221F5E4ADD}|SingleternPattern.csproj|solutionrelative:singletern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C64AEB-621D-493D-AEE5-F9221F5E4ADD}|SingleternPattern.csproj|e:\\git folder\\c-practice\\singleternpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C64AEB-621D-493D-AEE5-F9221F5E4ADD}|SingleternPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "singletern.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\SingleternPattern\\singletern.cs",
+              "RelativeDocumentMoniker": "singletern.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\SingleternPattern\\singletern.cs",
+              "RelativeToolTip": "singletern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:13:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GIt Folder\\C-practice\\SingleternPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GIt Folder\\C-practice\\SingleternPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:11:48.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

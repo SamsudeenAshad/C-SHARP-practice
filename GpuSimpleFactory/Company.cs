@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace GpuSimpleFactory
 {
-    public class Company
+    public abstract class Company
     {
-        public void Gpu AssembleGpu()
+        public Gpu AssembleGpu()
         {
-            Gpu gpu = new Gpu();
-            gpu.Assember();
+            Gpu gpu = CreateGpu();
+            gpu.Assemble;
             return gpu;
 
         }
