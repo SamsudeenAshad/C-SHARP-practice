@@ -1,0 +1,2 @@
+E:\GIt Folder\C-practice\VehicleManufacture\obj\Debug\VehicleManufacture.csproj.AssemblyReference.cache
+E:\GIt Folder\C-practice\VehicleManufacture\obj\Debug\VehicleManufacture.csproj.CoreCompileInputs.cache
